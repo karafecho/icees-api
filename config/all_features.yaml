@@ -7,7 +7,7 @@ patient:
     enum:
     - 0
     - 1
-    type: interger
+    type: integer
   ALT_flag_first:
     biolinkType: PhenotypicFeature
     enum:
@@ -314,7 +314,7 @@ patient:
     enum:
     - 0
     - 1
-    type: interger
+    type: integer
   BaseDeficit_flag_first:
     biolinkType: PhenotypicFeature
     enum:
